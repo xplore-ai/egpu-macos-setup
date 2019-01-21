@@ -38,24 +38,24 @@ Next times the script can be called by `macos-egpu`
 
 **Black display**
 - Step set 1
-		1. boot without eGPU
-		2. hot plug eGPU with monitor
-		3. log out
-	- Step set 2
-		1. boot without eGPU
-		2. hot plug eGPU only (no external monitor)
-		3. wait 15 sec
-		4. log out
-		5. hot plug monitor
-		6. wait 15 sec
-		7. log in
-	- Step set 3
-		1. boot without eGPU
-		2. log out
-		3. hot plug eGPU
-	- Step set 4 (no FileVault)
-		1. boot without eGPU
-		2. hot plug before first login
+	1. boot without eGPU
+	2. hot plug eGPU with monitor
+	3. log out
+- Step set 2
+	1. boot without eGPU
+	2. hot plug eGPU only (no external monitor)
+	3. wait 15 sec
+	4. log out
+	5. hot plug monitor
+	6. wait 15 sec
+	7. log in
+- Step set 3
+	1. boot without eGPU
+	2. log out
+	3. hot plug eGPU
+- Step set 4 (no FileVault)
+	1. boot without eGPU
+	2. hot plug before first login
 
 **UI Lagging**
 1. Boot with eGPU
